@@ -1,0 +1,9 @@
+4
+Phill,Collins
+English 50 80 70
+Jacobbs, Carl
+Maths 30 50 55 40 60 70 50 80
+Brown, John
+Science 80 70 60 75
+Lyde,Jane
+Science 90 55 80 92

@@ -1,0 +1,24 @@
+Collins Phill
+Final Exam Grade: 67.0| Average: 22.33| Grade: D
+Subject: English
+
+ Carl Jacobbs
+Final Exam Grade: 94.0| Average: 23.56| Grade: A
+Subject: Maths
+
+ John Brown
+Final Exam Grade: 70.0| Average: 17.38| Grade: C
+Subject: Science
+
+Jane Lyde
+Final Exam Grade: 77.0| Average: 19.27| Grade: C
+Subject: Science
+
+ -=Grading Scale=-
+
+    100-90 = A 
+    89-80 = B 
+    79-70 = C 
+    69-60 = D 
+    59-0 = f 
+
